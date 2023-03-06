@@ -1,0 +1,8 @@
+/* This is the css for the entertainment page */
+
+.youtube{
+    border: 2px solid black;
+    background-image: url("youtube_logo.png");
+    height: 200px;
+    width: 500px;
+}
